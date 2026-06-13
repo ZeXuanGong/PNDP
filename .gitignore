@@ -124,6 +124,8 @@ acs-*.bib
 !fig_6.9/**
 !fig_6.13/
 !fig_6.13/**
+!fig_6.14/
+!fig_6.14/**
 *.glg
 *.glg-abr
 *.glo
